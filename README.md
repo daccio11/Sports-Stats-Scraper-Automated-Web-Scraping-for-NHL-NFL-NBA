@@ -5,13 +5,13 @@ A Python-based web scraper that extracts real-time sports statistics from Wikipe
 📸 Screenshot: [Attach a screenshot of your program in action]
 <br>
 <br>
-🛠 How It's Made
-Tech Used:
-Python (Core Language)
-BeautifulSoup (Web Scraping)
-Requests (Fetching Web Data)
-Pandas (Data Processing)
-Tabulate (Formatted Output)
+🛠 How It's Made <br>
+* Tech Used: <br>
+* Python (Core Language)<br>
+* BeautifulSoup (Web Scraping)<br>
+* Requests (Fetching Web Data)<br>
+* Pandas (Data Processing)<br>
+* Tabulate (Formatted Output)<br>
 <br>
 This project uses BeautifulSoup to parse Wikipedia pages and extract structured data from HTML tables. The extracted data is processed using Pandas, allowing users to filter, clean, and export the information in a user-friendly format.
 <br>
