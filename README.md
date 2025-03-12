@@ -26,13 +26,12 @@ The program features an interactive command-line menu, enabling users to:
 4. Download multiple datasets without restarting the script. <br>
 <br>
 <br>
-⚡ Optimizations:<br>
-  * Data Validation ✅ → Ensures extracted data matches column headers before adding to the dataset.<br>
-  * Improved User Experience 🏆 → Looping menu allows users to download multiple datasets in one session.<br>
+⚡ Optimizations <br>
+ * Data Validation ✅ → Ensures extracted data matches column headers before adding to the dataset.<br>
+ * Improved User Experience 🏆 → Looping menu allows users to download multiple datasets in one session.<br>
 <br>
 <br>
-🎯 Lessons Learned: <br>
-<br>
+🎯 Lessons Learned <br>
 * Mastering Web Scraping Challenges → Handling dynamic HTML structures, missing values, and nested tables. <br>
 * Optimizing Code Efficiency → Refactored scraping logic to reduce runtime & improve data accuracy.<br>
 * Error Handling & Validation → Implemented better input validation to prevent invalid selections.<br>
