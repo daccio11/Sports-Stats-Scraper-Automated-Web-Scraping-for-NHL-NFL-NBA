@@ -1,7 +1,6 @@
 🏆 Sports Stats Scraper: Automated Web Scraping for NHL, NFL & NBA
 A Python-based web scraper that extracts real-time sports statistics from Wikipedia, allowing users to download and analyze NHL, NFL, and NBA stats in CSV, JSON, or Excel format.
 
-📌 Live Demo: Coming Soon
 📸 Screenshot: [Attach a screenshot of your program in action]
 
 🛠 How It's Made
