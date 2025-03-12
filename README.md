@@ -3,6 +3,7 @@
 <br>
 A Python-based web scraper that extracts real-time sports statistics from Wikipedia, allowing users to download and analyze NHL, NFL, and NBA stats in CSV, JSON, or Excel format.
 <br>
+<br>
 📸 Screenshot: [Attach a screenshot of your program in action]
 <br>
 <br>
@@ -13,6 +14,7 @@ A Python-based web scraper that extracts real-time sports statistics from Wikipe
 * Requests (Fetching Web Data)<br>
 * Pandas (Data Processing)<br>
 * Tabulate (Formatted Output)<br>
+<br>
 <br>
 This project uses BeautifulSoup to parse Wikipedia pages and extract structured data from HTML tables. The extracted data is processed using Pandas, allowing users to filter, clean, and export the information in a user-friendly format.
 <br>
